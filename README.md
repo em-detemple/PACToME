@@ -1,6 +1,8 @@
 Pathway ACTivation Analysis on Multiple Eukaryotes (PACToME) using Reactome is an interactive R shiny application that extends pathway activation to the entire 
 eukaryotic research community using the expansive pathway level information from the Reactome Knowledgebase. 
 
+![PACToe screenshot](PACToME_userInterface.PNG)
+
 PACToME is an extension to an existing pathway activation analysis (PAA) toolkit available through the Dartmouth Cystic Fibrosis Research Center (DartCF)
 Bioinformatics and Biostatistics Research Core on their Data Reuse and Analysis Applications website. This site includes a variety of accessible, user-friendly tools  
 to analyze gene expression data as well as tools with pre-loaded databases for cystic fibrosis, pathogenic bacteria, as well as NCBI Gene Expression Omnibus (GEO). 
